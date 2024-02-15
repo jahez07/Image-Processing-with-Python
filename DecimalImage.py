@@ -1,6 +1,6 @@
 # Malware exe --> HexCode (HexEditor)
 # HexCode (HexEditor) --> Hexadecimal
-# Hexadecimal (Python) --> Decimal
+# Hexadecimal (Python) --> Decimal (Refer to Hex_Decimal.py)
 # Decimal (Python) --> Grayscale Image
 
 # Connecting to Google Drive
